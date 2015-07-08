@@ -1,2 +1,2 @@
 # Java-Projects
-A series a small Java projects: exercises in data structures. 
+A series of small Java projects: exercises in data structures. 
